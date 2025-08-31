@@ -5,7 +5,6 @@
 - 📫 Contato: Richardmarques923@gmail.com
 - 😄 Pronomes: Ele/Dele
 
-- 
 <a href="https://github.com/Richardblasty">
   <img height="180" src="https://github-readme-stats.vercel.app/api/?username=Richardblasty&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
