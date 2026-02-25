@@ -1,5 +1,13 @@
 <h1 align="center"> Desenvolvedor / Backend</h1>
 
+<div align="center">
+  
+## 📊 Estatísticas de Linguagens
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula)
+
+</div>
+
 ## 🛠️ Tech Stack & Tools  
 
 | 🚀 Front-End | ⚙️ Back-End |
