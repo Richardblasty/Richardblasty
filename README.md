@@ -4,7 +4,7 @@
   
 ## 📊 Estatísticas de Linguagens
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardblasty&layout=compact&langs_count=7&theme=dracula)
 
 </div>
 
