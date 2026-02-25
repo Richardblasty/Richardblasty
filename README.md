@@ -2,9 +2,18 @@
 
 <div align="center">
   
-## 📊 Estatísticas de Linguagens
+# 👨‍💻 Minhas Tecnologias
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardblasty&layout=compact&langs_count=7&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardblasty&layout=compact&theme=dracula&hide_border=true&langs_count=8)
+
+## 🔥 Detalhamento
+
+| Tecnologia | Nível | Progresso |
+|------------|-------|-----------|
+| Python | Avançado | ██████████ 100% |
+| Postgree | Intermediário | ████████░░ 80% |
+| HTML | Intermediário | ██████░░░░ 60% |
+| Java | Intermediário | ████████░░ 80% |
 
 </div>
 
