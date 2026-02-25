@@ -4,7 +4,7 @@
 
 | 🚀 Front-End | ⚙️ Back-End |
 |--------------|-------------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,vite,vue,figma,sass,tailwind,vercel&perline=8" alt="Frontend Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,typescript,php,laravel,express,java,nodejs,prisma,postman&perline=8" alt="Backend Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript&perline=8" alt="Frontend Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pyyhon,php,laravel,express,java,postman&perline=8" alt="Backend Skills" /></a> |
 
 | 🛢️ DB's | 🎨 Misc |
 |----------|---------|
@@ -24,10 +24,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-9c4cc8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
----
-
-## 🧭 Visão
-
-> "Acredito em um desenvolvimento tecnológico, acessível e humano. A IA não veio para substituir programadores, e sim para potencializá-los, abrindo espaço para inovações inéditas. O diferencial está em quem domina a ferramenta — e não em quem é dominado por ela. Use-a como alavanca, mas mantenha o raciocínio crítico e a curiosidade em primeiro plano."
-
