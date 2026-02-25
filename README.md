@@ -1,22 +1,5 @@
 <h1 align="center"> Desenvolvedor / Backend</h1>
 
-## 🎧 Tocando Agora 
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3qjiaqieoft3upss4oldlvvga&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=9c4cc8&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DS-GITH&show_icons=true&theme=tokyonight&hide_border=true&title_color=9c4cc8&icon_color=9c4cc8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-GITH&layout=compact&theme=tokyonight&hide_border=true&title_color=9c4cc8" />
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools  
 
 | 🚀 Front-End | ⚙️ Back-End |
@@ -33,7 +16,7 @@
 ## 🌍 Conecte-se comigo  
 
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&to=richardmarques923@gmail.com&su=Contato%20via%20GitHub&body=Olá,%20David!">
+  <a href="https://mail.google.com/mail/?view=cm&to=richardmarques923@gmail.com&su=Contato%20via%20GitHub&body=Olá,%20Richard!">
   <img src="https://img.shields.io/badge/-Gmail-9c4cc8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
