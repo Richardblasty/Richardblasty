@@ -14,6 +14,9 @@
 | Postgree | Intermediário | ████████░░ 80% |
 | HTML | Intermediário | ██████░░░░ 60% |
 | Java | Intermediário | ████████░░ 80% |
+| Php | Intermediário | ████████░░ 80% |
+| Mysql | Intermediário | ██████░░░░ 60% |
+| Javascript | Intermediário | ██████░░░░ 60% |
 
 </div>
 
