@@ -1,8 +1,6 @@
 <h1 align="center"> Desenvolvedor / Backend</h1>
 
 <div align="center">
-  
-# 👨‍💻 Minhas Tecnologias
 
 | Tecnologia | Nível | Progresso |
 |------------|-------|-----------|
