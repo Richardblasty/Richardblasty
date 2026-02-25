@@ -4,10 +4,6 @@
   
 # 👨‍💻 Minhas Tecnologias
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richardblasty&layout=compact&theme=dracula&hide_border=true&langs_count=8)
-
-## 🔥 Detalhamento
-
 | Tecnologia | Nível | Progresso |
 |------------|-------|-----------|
 | Python | Avançado | ██████████ 100% |
