@@ -4,11 +4,11 @@
 
 | 🚀 Front-End | ⚙️ Back-End |
 |--------------|-------------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript&perline=8" alt="Frontend Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,php,laravel,express,java,postman&perline=8" alt="Backend Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,py&perline=8" alt="Frontend Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,php,laravel,express,java,postman&perline=8" alt="Backend Skills" /></a> |
 
 | 🛢️ DB's |  IDEs |
 |----------|---------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,firebase&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,phpstorm,ai,pycharm,visualstudio&perline=8" alt="Misc Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,phpstorm,ai,pycharm,visualstudio&perline=8" alt="Misc Skills" /></a> |
 
 
 ---
