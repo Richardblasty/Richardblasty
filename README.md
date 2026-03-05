@@ -1,4 +1,4 @@
-<h1 align="center"> Desenvolvedor / Backend</h1>
+<h1 align="center"> Estudante de DS / Backend</h1>
 
 <div align="center">
 
