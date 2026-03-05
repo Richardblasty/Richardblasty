@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/richard-marques-04745a335/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-9c4cc8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://instagram.com/richardblasty">
+   <a href="https://instagram.com/richardblastys">
     <img src="https://img.shields.io/badge/Instagram-@richardblastys-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>  
 </p>
