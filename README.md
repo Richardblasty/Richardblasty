@@ -4,12 +4,12 @@
 
 | Tecnologia | Nível | Progresso |
 |------------|-------|-----------|
-| Python | Avançado | ██████████ 100% |
-| Postgree | Intermediário | ████████░░ 80% |
+| Python | Intermediário | ██████░░░░ 60% |
+| Postgree | Intermediário | ██████░░░░ 60% |
 | HTML | Intermediário | ██████░░░░ 60% |
-| Java | Intermediário | ████████░░ 80% |
-| Php | Intermediário | ████████░░ 80% |
-| Mysql | Intermediário | ██████░░░░ 60% |
+| Java | Iniciante | ████░░░░░░ 40% |
+| Php | Intermediário | ██████░░░░ 60% |
+| Mysql | Iniciante | ████░░░░░░ 40% |
 | Javascript | Intermediário | ██████░░░░ 60% |
 
 </div>
@@ -37,4 +37,7 @@
   <a href="https://www.linkedin.com/in/richard-marques-04745a335/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-9c4cc8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://instagram.com/richardblasty">
+    <img src="https://img.shields.io/badge/Instagram-@richardblastys-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>  
 </p>
