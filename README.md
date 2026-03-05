@@ -24,6 +24,12 @@
 |----------|---------|
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,phpstorm,ai,pycharm,visualstudio&perline=8" alt="Misc Skills" /></a> |
 
+---
+
+### 📊 GitHub Stats
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/suyanneDomingos?cardType=level-alternate&theme=gotham&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 ---
 
