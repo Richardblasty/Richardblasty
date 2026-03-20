@@ -24,7 +24,7 @@
 
 | 🛢️ DB's |  Ferramentas |
 |----------|---------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,ai,supabase,nginx&perline=8" alt="Misc Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,ai,supabase,nginx&perline=8" alt="Misc Skills" /></a> |
 
 | IDEs que eu tenho noção (além do Vscode e netbeans).|
 |-------------------|
