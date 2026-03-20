@@ -22,7 +22,7 @@
 |--------------|-------------|
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,ts,react,vue&perline=8" alt="Frontend Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,php,java,javascript&perline=8" alt="Backend Skills" /></a> |
 
-| 🛢️ DB's |  IDEs |
+| 🛢️ DB's |  Ferramentas |
 |----------|---------|
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,phpstorm,ai,pycharm,visualstudio,supabase&perline=8" alt="Misc Skills" /></a> |
 
