@@ -11,6 +11,8 @@
 | Php | Intermediário | ██████░░░░ 60% |
 | Mysql | Iniciante | ████░░░░░░ 40% |
 | Javascript | Intermediário | ██████░░░░ 60% |
+| React | Iniciante | ████░░░░░░ 40% |
+| TypeScript | Iniciante | ████░░░░░░ 40% |
 
 </div>
 
