@@ -28,7 +28,7 @@
 
 | IDEs que eu domino (além do Vscode) |  IDEs no qual tenho noção |
 |----------|---------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pycharm,eclipse&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=phpstorm,visualstudio&perline=8" alt="Misc Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pycharm,eclipse&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=phpstorm,visualstudio,netbeans&perline=8" alt="Misc Skills" /></a> |
 
 ---
 
