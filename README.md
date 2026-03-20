@@ -24,11 +24,11 @@
 
 | 🛢️ DB's |  Ferramentas |
 |----------|---------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,phpstorm,ai,pycharm,visualstudio,supabase,nginx&perline=8" alt="Misc Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,ai,supabase,nginx&perline=8" alt="Misc Skills" /></a> |
 
-| IDEs |  Ambientes de Desenvolvimento Integrados |
+| IDEs (Principais) |  IDEs (No qual tenho noção) |
 |----------|---------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,phpstorm,ai,pycharm,visualstudio,supabase,nginx&perline=8" alt="Misc Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,pycharm,eclipse&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=phpstorm,&perline=8" alt="Misc Skills" /></a> |
 
 ---
 
