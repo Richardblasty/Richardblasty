@@ -24,7 +24,7 @@
 
 | 🛢️ DB's |  IDEs |
 |----------|---------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,phpstorm,ai,pycharm,visualstudio&perline=8" alt="Misc Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,phpstorm,ai,pycharm,visualstudio,supabase&perline=8" alt="Misc Skills" /></a> |
 
 ---
 
