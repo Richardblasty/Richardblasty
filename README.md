@@ -20,7 +20,7 @@
 
 | 🚀 Front-End | ⚙️ Back-End |
 |--------------|-------------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css&perline=8" alt="Frontend Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,php,java,javascript&perline=8" alt="Backend Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css&perline=8" alt="Frontend Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,php,java,javascript,react,typeScript&perline=8" alt="Backend Skills" /></a> |
 
 | 🛢️ DB's |  IDEs |
 |----------|---------|
