@@ -26,8 +26,8 @@
 |----------|---------|
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,ai,supabase,nginx&perline=8" alt="Misc Skills" /></a> |
 
-| IDEs que eu domino (além do Vscode) |  IDEs no qual tenho noção |
-|----------|---------|
+| IDEs que eu domino (além do Vscode e netbeans)  IDEs no qual tenho noção |
+|-------------------|
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pycharm,eclipse&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=phpstorm,visualstudio,netbeans&perline=8" alt="Misc Skills" /></a> |
 
 ---
