@@ -28,7 +28,7 @@
 
 | IDEs (Principais) |  IDEs (No qual tenho noção) |
 |----------|---------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,pycharm,eclipse&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=phpstorm,&perline=8" alt="Misc Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudiocode,pycharm,eclipse&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=phpstorm,visualstudio&perline=8" alt="Misc Skills" /></a> |
 
 ---
 
