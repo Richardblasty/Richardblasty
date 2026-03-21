@@ -60,8 +60,6 @@
 🔹 **CIM**  
 🔹 **SiteMg**  
 
----
-
 <div align="center">
   <img src="https://i.imgur.com/waxVImv.png"/>  
 </div>
