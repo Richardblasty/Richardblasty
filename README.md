@@ -45,6 +45,27 @@
 
 ---
 
+## 🎯 Minhas metas
+
+- 📌 Aprofundar mais no Back-End  
+- 🧱 Ter mais contatos na área   
+- 🐍 Desenvolver lindos sites
+- 💼 Fechar cada vez mais negócios
+
+---
+
+## 🧩 Projetos em Destaque
+
+🔹 **InstPDF**  
+🔹 **CIM**  
+🔹 **SiteMg**  
+
+---
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png"/>  
+</div>
+
 <div align="center">
 
 ## 🚀 Estatísticas do GitHub
