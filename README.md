@@ -1,6 +1,15 @@
-<h1 align="center"> Estudante de DS / Backend</h1>
+<!-- Banner superior -->
+<p align="center">
+  <img src="
 
-<div align="center">
+" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=👾+RICHARD+MARQUES;FULL-STACK+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;NEVER+STOP+LEVELING+UP+🚀" />
+</h1>
+
+---
 
 | Tecnologia | Nível | Progresso |
 |------------|-------|-----------|
