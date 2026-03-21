@@ -11,6 +11,8 @@
 
 ---
 
+<div align="center">
+  
 | Tecnologia | Nível | Progresso |
 |------------|-------|-----------|
 | Python | Intermediário | ██████░░░░ 60% |
