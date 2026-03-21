@@ -18,6 +18,7 @@
 | Python | Intermediário | ██████░░░░ 60% |
 | Postgree | Intermediário | ██████░░░░ 60% |
 | HTML | Intermediário | ██████░░░░ 60% |
+| CSS3 | Intermediário | ██████░░░░ 60% |
 | Java | Iniciante | ████░░░░░░ 40% |
 | Php | Intermediário | ██████░░░░ 60% |
 | Mysql | Iniciante | ████░░░░░░ 40% |
