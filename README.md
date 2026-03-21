@@ -47,10 +47,12 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+## 🚀 Estatísticas do GitHub
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Richardblasty?cardType=level-alternate&theme=gotham&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardblasty&layout=compact&theme=tokyonight&hide_border=true"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richardblasty&theme=tokyonight&hide_border=true" /> 
+</div>
 
 ---
 
