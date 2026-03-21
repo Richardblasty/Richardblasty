@@ -84,7 +84,7 @@
   <a href="https://mail.google.com/mail/?view=cm&to=richardmarques923@gmail.com&su=Contato%20via%20GitHub&body=Olá,%20Richard!">
   <img src="https://img.shields.io/badge/-Gmail-9c4cc8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
+  
   <a href="https://www.linkedin.com/in/richard-marques-04745a335/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-9c4cc8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
