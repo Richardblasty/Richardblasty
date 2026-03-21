@@ -43,7 +43,9 @@
 |-------------------|
 | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,eclipse,pycharm,phpstorm&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,eclipse,ai,supabase,nginx&perline=8" alt="Misc Skills" /></a> 
 
----
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png"/>  
+</div>
 
 ## 🎯 Minhas metas
 
@@ -52,17 +54,11 @@
 - 🐍 Desenvolver lindos sites
 - 💼 Fechar cada vez mais negócios
 
----
-
 ## 🧩 Projetos em Destaque
 
 🔹 **InstPDF**  
 🔹 **CIM**  
 🔹 **SiteMg**  
-
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png"/>  
-</div>
 
 <div align="center">
 
