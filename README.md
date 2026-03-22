@@ -8,6 +8,15 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=👾+RICHARD+MARQUES;FULL-STACK+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;NEVER+STOP+LEVELING+UP+🚀" />
 </h1>
+Olá! Eu sou o Richard 👋
+
+Sou estudante técnico de Desenvolvimento de Sistemas na EEEP Encomendador Miguel Gurgel. Quando estou livre, também gosto de jogar World of Warcraft.
+
+Minha jornada começou na escola técnica, quando comecei a fazer trabalhos de manutenção de computadores para garantir meu próprio sustento nos arredores do meu bairro e a estudar programação no meu tempo livre. Com o tempo, passei a desenvolver pequenos projetos de automação e expandir meus serviços de programação junto com os de manutenção. Assim, os clientes começaram a chegar.
+
+Hoje, já tenho um projeto no ar: o InstPDF. Meu objetivo é aperfeiçoar cada vez mais meu trabalho, ampliar minha rede de contatos e conquistar novos clientes.
+
+
 
 ## 🛠️ Tech Stack & Tools  
 
