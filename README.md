@@ -9,25 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=1000&lines=👾+RICHARD+MARQUES;FULL-STACK+DEVELOPER;BUILDING+THE+FUTURE+WITH+CODE;NEVER+STOP+LEVELING+UP+🚀" />
 </h1>
 
----
-
-<div align="center">
-  
-| Tecnologia | Nível | Progresso |
-|------------|-------|-----------|
-| Python | Intermediário | ██████░░░░ 60% |
-| Postgree | Intermediário | ██████░░░░ 60% |
-| HTML | Intermediário | ██████░░░░ 60% |
-| CSS3 | Intermediário | ██████░░░░ 60% |
-| Java | Iniciante | ████░░░░░░ 40% |
-| Php | Intermediário | ██████░░░░ 60% |
-| Mysql | Iniciante | ████░░░░░░ 40% |
-| Javascript | Intermediário | ██████░░░░ 60% |
-| React | Iniciante | ████░░░░░░ 40% |
-| TypeScript | Iniciante | ████░░░░░░ 40% |
-
-</div>
-
 ## 🛠️ Tech Stack & Tools  
 
 <div align="center">
