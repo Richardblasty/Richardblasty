@@ -47,9 +47,9 @@ Hoje, já tenho dois projetos no ar: o InstPDF, CIM e o site da Miguel Gurgel. M
 
 ## 🧩 Projetos em Destaque
 
-🔹 **InstPDF**  
-🔹 **CIM**  
-🔹 **SiteMg**  
+-🔹 **InstPDF**  
+-🔹 **CIM**  
+-🔹 **SiteMg**  
 
 <div align="center">
 
