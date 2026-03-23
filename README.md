@@ -40,10 +40,10 @@ Hoje, já tenho dois projetos no ar: o InstPDF, CIM e o site da Miguel Gurgel. M
 
 ## 🎯 Minhas metas
 
-- 📌 Aprofundar mais no Back-End  
-- 🧱 Ter mais contatos na área   
-- 🐍 Desenvolver lindos sites
-- 💼 Fechar cada vez mais negócios
+- 🗻 Aprofundar mais no Back-End  
+- 📱 Ter mais contatos na área   
+- ✒️ Desenvolver lindos sites
+- 📈 Fechar cada vez mais negócios
 
 ## 🧩 Projetos em Destaque
 
