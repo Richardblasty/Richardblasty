@@ -14,7 +14,7 @@ Sou estudante técnico de Desenvolvimento de Sistemas na EEEP Encomendador Migue
 
 Minha jornada começou na escola técnica, quando comecei a fazer trabalhos de manutenção de computadores para garantir meu próprio sustento nos arredores do meu bairro e a estudar programação no meu tempo livre. Com o tempo, passei a desenvolver pequenos projetos de automação e expandir meus serviços de programação junto com os de manutenção. Assim, os clientes começaram a chegar.
 
-Hoje, já tenho dois projetos no ar: o InstPDF,CIM e o site da Miguel Gurgel. Meu objetivo é aperfeiçoar cada vez mais meu trabalho, ampliar minha rede de contatos e conquistar novos clientes.
+Hoje, já tenho dois projetos no ar: o InstPDF, CIM e o site da Miguel Gurgel. Meu objetivo é aperfeiçoar cada vez mais meu trabalho, ampliar minha rede de contatos e conquistar novos clientes.
 
 
 
