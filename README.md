@@ -28,7 +28,7 @@ Hoje, já tenho três projetos no ar: o InstPDF, CIM e o site da Miguel Gurgel. 
 
 | 🛢️ DB's |  Ferramentas |
 |----------|---------|
-| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,ai,supabase,nginx,git,github&perline=8" alt="Misc Skills" /></a> |
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8" alt="Database Skills" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask,ai,supabase,nginx,git,github,postman&perline=8" alt="Misc Skills" /></a> |
 
 | IDEs que eu tenho noção (além do Vscode e netbeans).|
 |-------------------|
