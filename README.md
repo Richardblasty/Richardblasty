@@ -56,6 +56,7 @@ Hoje, já tenho três projetos no ar: o InstPDF, CIM e o site da Miguel Gurgel. 
 ## 🚀 Estatísticas do GitHub
 
 <div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardblasty&layout=compact&theme=tokyonight&hide_border=true"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Richardblasty&theme=tokyonight&hide_border=true" /> 
 </div>
 
